@@ -1,0 +1,21 @@
+build/
+.env
+
+*~
+
+# OSX
+.DS_Store
+
+# node.js
+node_modules/
+npm-debug.log
+
+# Visual Studio code
+typings/
+
+# JetBrains IDEs
+.idea/
+
+TODO.md
+
+test/output

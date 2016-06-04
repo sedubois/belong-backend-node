@@ -1,0 +1,35 @@
+{
+  "name": "belong-backend-node",
+  "version": "0.0.0",
+  "description": "Open-source your mind",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": "6.2.1",
+    "npm": "3.8.6"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bluebird": "3.4.0",
+    "body-parser": "1.15.1",
+    "cors": "2.7.1",
+    "express": "4.13.4",
+    "joi": "8.4.1",
+    "morgan": "1.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/belongapp/belong-backend-node.git"
+  },
+  "keywords": [
+    "mindfulness",
+    "meditation",
+    "open"
+  ],
+  "author": "Sebastien Dubois",
+  "bugs": {
+    "url": "https://github.com/belongapp/belong-backend-node/issues"
+  },
+  "homepage": "https://github.com/belongapp/belong-backend-node"
+}
